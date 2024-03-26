@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/TsMask/count.svg)
+
 <!--
 **TsMask/TsMask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Gitee: [Gitee](https://gitee.com/TsMask)
+
+[![TsMask Data](https://github-readme-stats.vercel.app/api?username=TsMask)](https://github.com/TsMask)
