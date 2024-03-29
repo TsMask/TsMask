@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Gitee: [Gitee](https://gitee.com/TsMask)
 
 [![TsMask Data](https://github-readme-stats.vercel.app/api?username=TsMask)](https://github.com/TsMask)
+
+[![TsMask Data](https://github-readme-stats.vercel.app/api/top-langs/?username=TsMask)](https://github.com/TsMask)
