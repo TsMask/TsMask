@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/TsMask/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/TsMask/count.svg) 
 
 <!--
 **TsMask/TsMask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 😄 Gitee: [Gitee](https://gitee.com/TsMask)
 
 [![TsMask Data](https://github-readme-stats.vercel.app/api?username=TsMask)](https://github.com/TsMask)
+[![TsMask Data](https://streak-stats.demolab.com/?user=TsMask&theme=buefy&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://github.com/TsMask)
 
 [![TsMask Data](https://github-readme-stats.vercel.app/api/top-langs/?username=TsMask)](https://github.com/TsMask)
