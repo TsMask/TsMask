@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/TsMask/count.svg) 
-
 <!--
 **TsMask/TsMask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Gitee: [Gitee](https://gitee.com/TsMask)
+😄 China Gitee: [go go go](https://gitee.com/TsMask)
 
-[![TsMask Data](https://github-readme-stats.vercel.app/api?username=TsMask)](https://github.com/TsMask)
+[![TsMask Data](https://github-readme-stats.j178.dev/api?username=tsmask&count_private=true&include_all_commits=true&show_icons=true&custom_title=tsmask%27s%20GitHub%20stats)](https://github.com/TsMask)
+
 [![TsMask Data](https://streak-stats.demolab.com/?user=TsMask&theme=buefy&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://github.com/TsMask)
 
-[![TsMask Data](https://github-readme-stats.vercel.app/api/top-langs/?username=TsMask)](https://github.com/TsMask)
+[![TsMask Data](https://github-readme-stats.j178.dev/api/top-langs/?username=tsmask&theme=default&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,tsmask.github.io,MyWechat,blog,intranet-api,resume,notes)](https://github.com/TsMask)
